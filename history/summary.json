@@ -4,18 +4,20 @@
     "url": "https://setbuddy.tailc3d30f.ts.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/setbuddy.tailc3d30f.ts.net.ico",
     "slug": "set-buddy-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 384,
-    "timeWeek": 384,
-    "timeMonth": 384,
-    "timeYear": 384,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "37.69%",
+    "uptimeDay": "37.69%",
+    "uptimeWeek": "37.69%",
+    "uptimeMonth": "37.69%",
+    "uptimeYear": "37.69%",
+    "time": 423,
+    "timeDay": 423,
+    "timeWeek": 423,
+    "timeMonth": 423,
+    "timeYear": 423,
+    "dailyMinutesDown": {
+      "2026-05-26": 351
+    }
   },
   {
     "name": "Tailscale server",
