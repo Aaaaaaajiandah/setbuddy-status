@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/setbuddy.tailc3d30f.ts.net.ico",
     "slug": "set-buddy-backend",
     "status": "up",
-    "uptime": "37.69%",
-    "uptimeDay": "37.69%",
-    "uptimeWeek": "37.69%",
-    "uptimeMonth": "37.69%",
-    "uptimeYear": "37.69%",
-    "time": 423,
-    "timeDay": 423,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "uptime": "71.91%",
+    "uptimeDay": "71.91%",
+    "uptimeWeek": "71.91%",
+    "uptimeMonth": "71.91%",
+    "uptimeYear": "71.91%",
+    "time": 395,
+    "timeDay": 395,
+    "timeWeek": 395,
+    "timeMonth": 395,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2026-05-26": 351
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 266,
-    "timeWeek": 266,
-    "timeMonth": 266,
-    "timeYear": 266,
+    "time": 257,
+    "timeDay": 257,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
     "dailyMinutesDown": {}
   }
 ]
