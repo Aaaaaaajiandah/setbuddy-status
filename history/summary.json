@@ -4,17 +4,17 @@
     "url": "https://setbuddy.tailc3d30f.ts.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/setbuddy.tailc3d30f.ts.net.ico",
     "slug": "set-buddy-backend",
-    "status": "down",
-    "uptime": "81.48%",
-    "uptimeDay": "43.26%",
-    "uptimeWeek": "71.00%",
-    "uptimeMonth": "81.48%",
-    "uptimeYear": "81.48%",
-    "time": 474,
-    "timeDay": 509,
+    "status": "up",
+    "uptime": "81.08%",
+    "uptimeDay": "30.46%",
+    "uptimeWeek": "69.17%",
+    "uptimeMonth": "81.08%",
+    "uptimeYear": "81.08%",
+    "time": 475,
+    "timeDay": 519,
     "timeWeek": 530,
-    "timeMonth": 474,
-    "timeYear": 474,
+    "timeMonth": 475,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2026-05-26": 351,
       "2026-05-27": 252,
@@ -29,7 +29,7 @@
       "2026-06-17": 744,
       "2026-06-18": 821,
       "2026-06-20": 686,
-      "2026-06-21": 131
+      "2026-06-21": 315
     }
   },
   {
